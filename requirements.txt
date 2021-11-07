@@ -1,7 +1,5 @@
 brotlipy==0.7.0
 certifi==2021.10.8
-click==8.0.3
-conda==4.10.3
 Flask==2.0.2
 gunicorn==20.1.0
 Jinja2==3.0.2
